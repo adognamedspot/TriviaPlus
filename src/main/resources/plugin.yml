@@ -1,0 +1,12 @@
+name: TriviaPlus
+main: com.adognamedspot.triviaplus.TriviaPlus
+version: ${project.version}
+author: A DoG NaMeD SpoT
+api-version: '1.21.1'
+commands:
+   triviaplus:
+      description: Main command to access TriviaPlus.
+      usage: /<command>
+      permission: <plugin name>.main
+      permission-message: You don't have <permission>
+

@@ -1,0 +1,5 @@
+name: TriviaPlus
+main: spot.triviaplus.TriviaPlus
+version: ${project.version}
+author: A DoG NaMeD SpoT
+api-version: '1.21.1'
